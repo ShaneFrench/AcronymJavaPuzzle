@@ -14,6 +14,15 @@ __4)__ Then another For loop to search through the newly formatted array to retr
 __5)__ A simple replaceAll regex to remove whitespace.
 
 __6)__ Realised I could probably use replaceAll to fix every acronym, but without Googling I couldn't remember enough from my training
-to complete this task fully.
+to complete this task fully. And this was the output:
+
+Conversion for Portable Network Graphics: PNG
+Conversion for Ruby on Rails: RR
+Conversion for HyperText Markup Language: HTML
+Conversion for First In, First Out: FIFO
+Conversion for PHP: Hypertext Preprocessor: PHP:HP
+Conversion for GNU Image Manipulation Program: GNUIMP
+Conversion for Complementary metal-oxide semiconductor: C
+Conversion for Cat in a Hat: CH
 
 ## I'm happy to complete another attempt with Google's assistance

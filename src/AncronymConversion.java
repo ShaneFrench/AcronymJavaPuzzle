@@ -19,8 +19,8 @@ public class AncronymConversion {
                 acronym = acronym + split;
 
             acronym = acronym.replaceAll("\\s", "");
+
+            System.out.println("Conversion for " + words + ": " + acronym);
         }
-
-
     }
 }

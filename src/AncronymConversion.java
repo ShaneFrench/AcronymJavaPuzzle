@@ -10,6 +10,11 @@ public class AncronymConversion {
                 "Complementary metal-oxide semiconductor",
                 " Cat in a Hat"};
 
+        for (String words : arr)
+        {
+            String[] splits = words.split("[a-z]+");
+        }
+
 
     }
 }

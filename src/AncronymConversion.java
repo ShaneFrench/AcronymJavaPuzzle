@@ -13,6 +13,12 @@ public class AncronymConversion {
         for (String words : arr)
         {
             String[] splits = words.split("[a-z]+");
+            String acronym = "";
+
+            for (String split : splits)
+                acronym = acronym + split;
+
+            acronym = acronym.replaceAll("\\s", "");
         }
 
 

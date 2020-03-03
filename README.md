@@ -1,6 +1,6 @@
 # AcronymJavaPuzzle
 
-## I tried this conversion challenge with the knowledge of Java I had gained through the Data Academy and a little knowledge I had prior to this. (I realise I spelt the class name wrong)
+## I tried this conversion challenge with the knowledge of Java I had gained through the Data Academy and a little knowledge I had prior to this. (I realise I spelt the class name wrong afterwards)
 
 __1)__ First of all I created the array of Strings in which needed to be converted.
 
@@ -15,3 +15,5 @@ __5)__ A simple replaceAll regex to remove whitespace.
 
 __6)__ Realised I could probably use replaceAll to fix every acronym, but without Googling I couldn't remember enough from my training
 to complete this task fully.
+
+## I'm happy to complete another attempt with Google's assistance
